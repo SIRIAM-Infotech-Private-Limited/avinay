@@ -1,0 +1,23 @@
+table{
+    align-content: center;
+    height: 550px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 115px 100px 175px 10px;
+    border-color: hsl(0, 0%, 0%);
+   
+    
+    margin: 100px 100px 100px 600px ;
+    background-image: url(/html/oracleCloud.png);
+    
+     
+}
+body{
+    background-color: rgb(197, 177, 219);
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    color: #000;
+}
