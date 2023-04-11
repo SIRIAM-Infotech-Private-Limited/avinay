@@ -1,0 +1,64 @@
+li {
+    display: inline;
+    size: justify;
+    padding: 30px;
+    text-decoration-color: white;
+
+     
+}
+.landing {
+    background-image: url(/html/images/slider3.jpg);
+     
+    text-align: center;
+    padding: 25%;
+    margin: 200px, 300px,500px,800px;
+   
+    
+}
+button{
+   background-color: rgb(28, 123, 206); color: #000;
+    padding: 10px;
+    color: white;
+     
+}
+h1{
+    font-size: 50px;
+    font-weight: 550;
+    color:white;
+}
+p{
+    color:white;
+    font-weight: 600;
+}
+ul{
+    float: right;
+    overflow: hidden;
+   
+}
+li{
+   padding: 20px;
+   margin-right: 10px;
+    
+}
+
+    
+.health{
+    float: left;
+}
+.health li{
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.center:first-letter {
+    color: green;
+}
+a{
+    padding: 2px 2px;
+    text-decoration: none;
+    color: #272626;
+}
+header{
+    margin: 200px, 300px,500px,800px;
+}
+ 
