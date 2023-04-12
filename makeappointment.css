@@ -1,0 +1,62 @@
+li {
+    display: inline;
+    size: justify;
+    padding: 30px;
+    text-decoration-color: white;
+    margin-right: 10px;
+
+     
+}
+ul{
+    float: right;
+    overflow: hidden;
+   
+}   
+.health{
+    float: left;
+}
+.health li{
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+a{
+    padding: 2px 2px;
+    text-decoration: none;
+    color: #272626;
+}
+header{
+    background-color: #f1f1f1;
+ 
+
+}
+ img{
+    height: 500px;
+    margin-right: 150px;
+ }
+ table{
+    padding: 0.4px;
+     margin-inline-start: auto;
+ }
+ input[type=text]:focus {
+    border: 3px solid #555;
+  }
+  
+  td{
+    padding: 1px;
+    margin: 1px;
+  }
+  button{
+    display: block;
+    padding: 2px;
+    height: 40px;
+    width: 350px;
+    color:  white;
+    background-color: yellowgreen;
+
+  }
+  textarea{
+    width: 300px;
+    height: 100px;
+  }
+  
